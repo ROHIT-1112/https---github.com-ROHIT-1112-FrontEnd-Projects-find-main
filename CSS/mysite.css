@@ -1,0 +1,114 @@
+div{
+    background-color: #e4f9f5;
+    padding: 20px;
+}
+h1{
+    width: 35%;
+    font-size: 70px;
+    margin:0 auto 0 auto;
+}
+
+
+.ml{
+    text-decoration: underline;
+}
+
+.mountain{
+    align-self: center;
+}
+
+.lower-cloud{
+    position: absolute;
+    left:300px;
+    bottom:300px;
+}
+.upper-cloud{
+    position: absolute;
+    right: 200px;
+    top:50px;
+}
+
+body{
+    margin:auto;
+    color:#40514E;
+    text-align: center;
+    font-family: Garamond,Arial,serif;
+}
+p{
+    font-size: 22px;
+    line-height: 10px;
+}
+
+
+h2{
+    font-size: 2.5rem; /* 1px = 16em = 100% .so 2.5 =40 px.*/
+    padding-bottom: 10px;
+}
+
+.skills
+{
+    width:30% 0 30% 0;
+    margin:100px auto 100px auto;
+}
+
+.image-skills{
+    width:30%;
+    float: left;  /*https://www.w3schools.com/css/css_float.asp*/
+}
+
+.pic-skills{
+    float:right;
+    width:20%;
+    height: 20%;
+}
+
+.skills-description{
+    margin-right: 30%;
+}
+
+.skills-heading{
+    margin-right: 30%;
+}
+
+.research-heading{
+    margin-left: 30%;
+}
+
+.research-description{
+    margin-left:30%;
+}
+
+
+.intro{
+    width:30%;
+    height:30%;
+    margin:auto;
+    margin-bottom: 10%;
+    line-height:normal;
+
+}
+
+.hello{
+    margin-bottom: 25px;
+
+}
+
+hr{ 
+    border:dotted black 6PX;
+    border-bottom: none;
+    width:5%;
+    margin: 100px auto 100px auto;
+}
+
+
+.contact-message{
+    width:40%;
+    margin:auto;
+    line-height: normal;
+    margin-bottom:5%;
+}
+
+.contact-me{
+
+    top: 10px;
+}

@@ -1,0 +1,24 @@
+body{
+    background-color:#eeeeee;
+}
+h1{
+    color: green;
+}
+img{
+    background-color: red;
+}
+
+/********************************************Class Selector **************************************************************************************************/
+/* using class  css selectors :- can be accessed by . and class name.*/
+.broccoli{
+    background-color: greenyellow;
+}
+
+/***********************************************Id Selector ****************************************************************************************************/
+
+
+#heading{
+    color: indigo; /* id's are accessed by #.id gets the priority over the class. */
+}
+
+/* id and class are more selective than tag selectors.*/
